@@ -1,0 +1,2 @@
+# Perceptual-User-Interface-by-Hand-and-Finger-Tips-Tracking-to-AR-Objects
+Developed a novel way of using hand gesture to control the interaction of AR objects. Here the movements of the fingers act as an interface for bringing out motion of an AR object. As gesture by human hands has been on of the key communication modes through our human lives this implementation aims at bringing virtual reality experience closer to our perception.
