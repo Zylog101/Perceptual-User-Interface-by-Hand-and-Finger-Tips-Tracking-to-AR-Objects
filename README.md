@@ -20,3 +20,8 @@ Developed a novel way of using hand gesture to control the interaction of AR obj
 * Placing AR object on any flat surface instead of having chessboard
 * Better hand segmentation and optical flow using KLT algorithm with analysis to stabilize hand detection and finger tracking
 * In addition to finger count, utilization of finger motion itself as an input
+
+**Working**
+![image](https://github.com/Zylog101/Perceptual-User-Interface-by-Hand-and-Finger-Tips-Tracking-to-AR-Objects/blob/master/Image/ARP1.JPG)
+
+![image](https://github.com/Zylog101/Perceptual-User-Interface-by-Hand-and-Finger-Tips-Tracking-to-AR-Objects/blob/master/Image/ARP2.JPG)
